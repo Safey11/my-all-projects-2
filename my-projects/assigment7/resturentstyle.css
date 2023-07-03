@@ -1,0 +1,40 @@
+body{
+    background-color: lightskyblue;
+}
+
+header{
+    background-image:linear-gradient(rgba(0,0,0,0.0),rgba(0,0,0,0.0)),url(webg.jpg);
+    height: 120vh;
+    background-size: cover;
+    background-position: center;
+}
+
+ul li a{
+    text-decoration: none;
+    color:blueviolet;
+    padding: 5px 20px;
+    border: 1px solid transparent;
+    transition: 0.6s ease;
+}
+ul li a:hover{
+    background-color: #fff;
+    color: #000;
+}
+*{
+    margin: 0%;
+    padding: 0%;
+    font-family: century Gothic;
+}
+.logo img{
+    float: right;
+    width: 150px;
+    height: auto;
+}
+ul{
+    float: left;
+    list-style-type: none;
+    margin-top: 25px;
+}
+ul li{
+    display: ruby-base-container;
+}

@@ -1,0 +1,36 @@
+body{
+    background-color: lightblue;
+}
+.main{
+    background-color: lightslategray;
+    box-sizing: border-box;
+}
+.sub{
+    background-color: blueviolet;
+}
+.hub{
+    background-color: lightgreen;
+}
+.dub{
+    background-color: chocolate;
+}
+.rub{
+    background-color: azure;
+}
+.cat{
+    background-color: aquamarine;
+}
+.rat{
+    background-color: lightcoral;
+}
+.nap{
+    background-color: azure;
+}
+.cap{
+    background-color: lavender;
+}
+.bat{
+    background-color: antiquewhite;
+}
+
+
